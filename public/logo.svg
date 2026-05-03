@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
+  <!-- Modern AI Spark / Growth Icon -->
+  <path d="M40 15 L46 32 L63 38 L46 44 L40 61 L34 44 L17 38 L34 32 Z" fill="#10b981" />
+  <path d="M60 18 L63 25 L70 28 L63 31 L60 38 L57 31 L50 28 L57 25 Z" fill="#10b981" opacity="0.8" />
+  <path d="M25 55 L27 60 L32 62 L27 64 L25 69 L23 64 L18 62 L23 60 Z" fill="#10b981" opacity="0.6" />
+  
+  <!-- Text -->
+  <text x="85" y="52" font-family="'Inter', -apple-system, sans-serif" font-weight="800" font-size="32" fill="#f4f4f5" letter-spacing="-1.5">Ecommarketing</text>
+  <text x="306" y="52" font-family="'Inter', -apple-system, sans-serif" font-weight="800" font-size="32" fill="#10b981">.</text>
+</svg>
