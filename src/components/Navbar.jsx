@@ -1,3 +1,4 @@
+import logo from '../assets/logo.svg';
 import './Navbar.css';
 
 export default function Navbar() {
@@ -5,7 +6,7 @@ export default function Navbar() {
     <nav className="navbar bg-glass">
       <div className="container navbar-container">
         <div className="navbar-logo">
-          <img src="/logo.svg" alt="Ecommarketing LLC Logo" className="navbar-logo-img" />
+          <img src={logo} alt="Ecommarketing LLC Logo" className="navbar-logo-img" />
         </div>
         <ul className="navbar-menu">
           <li><a href="#features" className="navbar-link">Features</a></li>
