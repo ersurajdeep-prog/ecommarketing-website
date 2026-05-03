@@ -2,7 +2,7 @@
   "name": "ecommarketing-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ersurajdeep-prog.github.io/ecommarketing-website",
+  "homepage": "https://ecommarketing.in",
   "type": "module",
   "scripts": {
     "deploy": "gh-pages -d dist",
