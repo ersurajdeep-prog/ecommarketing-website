@@ -2,7 +2,7 @@
   "name": "ecommarketing-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ecommarketing.in",
+  "homepage": "https://ecomarketing.in",
   "type": "module",
   "scripts": {
     "deploy": "gh-pages -d dist",
